@@ -1,0 +1,4 @@
+baseURL = "https://levelhead.wiki"
+languageCode = "en-us"
+title = "Unoffical LevelHead Wiki"
+theme = "learn"
