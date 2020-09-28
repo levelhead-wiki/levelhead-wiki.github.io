@@ -3,27 +3,27 @@ name: Publish Website
 on: 
   push:
     branches:
-	  - master
+      - master
 
 jobs:
   publish:
     steps:
-	  - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 	  
-	  - name: Setup Hugo
-	    uses: peaceiris/actions-hugo@v2
-		with:
-		  hugo-version: '0.75.1'
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.75.1'
 	  
-	  - name: Build Site
-	    run: hugo --minify
-		
-	  - name: Deploy Site
-	    uses peaceiris/actions-gh-pages@v3
-		with:
-		  github_token: ${{ secrets.GITHUB_WOKEN }}
-		  publish_branch: gh-pages
-		  cname: levelhead.wiki
+      - name: Build Site
+        run: hugo --minify
+      
+      - name: Deploy Site
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+        github_token: ${{ secrets.GITHUB_WOKEN }}
+        publish_branch: gh-pages
+        cname: levelhead.wiki
