@@ -23,6 +23,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3.7.0-8
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_branch: gh-pages-test
+          publish_branch: gh-pages
           cname: levelhead.wiki
           publish_dir: source/public
