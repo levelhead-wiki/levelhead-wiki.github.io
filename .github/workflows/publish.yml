@@ -25,4 +25,4 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_branch: gh-pages-test
           cname: levelhead.wiki
-          publish_dir: ./public
+          publish_dir: source/public
