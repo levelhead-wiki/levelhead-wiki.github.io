@@ -18,10 +18,11 @@ jobs:
         with:
           hugo-version: '0.75.1'
       - name: Build Site
-        run: hugo --minify
+        run: cd source && hugo --minify
       - name: Deploy Site
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_WOKEN }}
           publish_branch: gh-pages
           cname: levelhead.wiki
+          publish_dir: ./public
