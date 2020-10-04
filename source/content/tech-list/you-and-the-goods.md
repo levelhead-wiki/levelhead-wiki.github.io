@@ -14,6 +14,9 @@ While running against a wall, GR-18 does not lose sprint. This techinque can be 
 ### Sprint Direction Change _(AKA Aerial Disco)_
 Normally when GR-18 changes lateral direction, sprint is lost. However, changing directions while in mid-air preserves the sprint.  While sprinting, jump and move in the opposite direction of the current run direction to preserve sprint throughout the direction change. 
 
+### Coyote Jump
+When running off of a platform into open space, press jump before GR-18 moves more than **2** tiles away from the platform. GR-18 will jump off of the open space. This tech allows GR-18 to gain up to an extra **2** tiles in horizontal jump distance depending on when you press jump.
+
 ### Retro Go-Go _(AKA Impossible Sprint)_
 Land on the edge of a platform of at least 7 tiles length to gain sprint on the 7th tile. Normally GR-18 requires 8 tiles to gain sprint. This can be combined with a jump off and back onto the edge of the same platform to gain sprint while already on a 7 tile platform.
 
@@ -96,13 +99,13 @@ Tech demo level: [mfj4ctj | "Ceiling Slip Tutorial" by SleepyDoof @zchv6z](https
 Tech demo video: [Sleepy Slipping the Ceiling](https://cdn.discordapp.com/attachments/408122851187621888/611426998392324096/2019-08-15_01-11-48.webm) - SleepyDoof
 
 ### Wall Jump
-Jump near a wall, throw the Package against the wall while ascending, then jump again on the Package after it bounces off the wall. This allows GR-18 to clear 9 tiles of height. Do while sprinting for a Super Wall Jump. This can be chained infinitely.
+Jump near a wall, throw the Package against the wall while ascending, then jump again on the Package after it bounces off the wall. This allows GR-18 to clear 9 tiles of height. Do while sprinting for a Super Wall Jump. This can be chained **infinitely**.
 
 Tech demo video: [Super Wall Jump](https://youtu.be/q7yhVDxHMjc) - Intuition
 Tech demo video: [Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk?t=36) - Flan
 
 ### Ceiling Jump
-As GR-18 approaches a ceiling from a jump, toss the package upwards, quickly turn back to line up with the rebounding package, then jump again on the package after the package bounces off the ceiling. This will allow GR-18 to end up on top of outcropped ceilings. This can be done infinitely with the right ceiling configurations.
+As GR-18 approaches a ceiling from a jump, toss the package upwards, quickly turn back to line up with the rebounding package, then jump again on the package after the package bounces off the ceiling. This will allow GR-18 to end up on top of outcropped ceilings. This can be done **infinitely** with the right ceiling configurations.
 
 Tech demo level: [8127mmq | "Ceiling Super Jump" by HighChair @nvb68d](https://lvlhd.co/+8127mmq)
 Tech demo video: [Super Ceiling Jump](https://youtu.be/0w48iK0BhJw) - Intuition
@@ -114,9 +117,9 @@ With the use of the Package and a Throw Block(or two Throw Blocks), GR-18 can Su
 Tech demo video: [Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk?t=10) - Flan
 
 ### ISJ2.0 _(Infinite Super Jump 2)_
-The Double Super Jump technique can be chained by re-grabbing the jumped off packages. This allows for infinite vertical or diagonal distances.
+The Double Super Jump technique can be chained by re-grabbing the jumped off packages. This allows for **infinite** vertical or diagonal distances.
 
 Tech demo video: [Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk?t=14) - Flan
 
 ### Super Leap
-After jumping off a surface with horizontal momentum (such as a horizontally moving flyblock), throw the package ahead. Once GR-18 catches up to the package and is ‘standing’ on it, press jump. Optionally, down grab to retain the package. Can be done infinitely.
+After jumping off a surface with horizontal momentum (such as a horizontally moving flyblock), throw the package ahead. Once GR-18 catches up to the package and is ‘standing’ on it, press jump. Optionally, down grab to retain the package. Can be done **infinitely**.
