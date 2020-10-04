@@ -2,6 +2,8 @@
 
 Welcome to the Unoffical Levelhead Community Wiki! Here you will find information on the various movement techs, level building tips, and lists of crazy contraptions that can really spice up your levels.
 
+**This website is currently under constuction.** Right now the tech list is in the process of being ported. Once that is complete the building tip lists and contraption lists will be ported.
+
 ## Contributing to the Website
 This website is open source and on [GitHub](https://github.com/levelhead-wiki/levelhead-wiki.github.io)! To contribute all you need to do is create a GitHub account, fork the repository, make your changes, and send a Pull Request. Once you do so one of the maintainers of the site (currently only CDSlice#0476) will review your contribution and merge it into the site. If you aren't comfortable with the process of sending Pull Requests you can also open an issue on the GitHub repository with your suggestions or reports of typos, grammatical errors, or any other issues you find. Finally, if you can't get a GitHub account you can also join the [Butterscotch Shenanigans Discord](https://discord.gg/GKFCC8U) and then ping **@CDSlice#0476** in a DM.
 
