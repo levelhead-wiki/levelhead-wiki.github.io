@@ -101,3 +101,28 @@ a:hover {
 #sidebar hr {
     border-color: var(--MENU-SECTION-HR-color);
 }
+
+img[src$='#floatright']
+{
+    float: right;
+    padding-left: 10px;
+    margin: unset !important;
+       //etc. etc.
+}
+img[src$='#floatleft']
+{
+    float: left;
+    padding: 15px;
+    padding-top: 0px;
+    margin: unset !important;
+       //etc. etc.
+}
+
+p {
+    overflow: auto;
+}
+
+#body-inner {
+    margin: 10%;
+    max-width: 80%;
+}
