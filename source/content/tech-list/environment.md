@@ -81,7 +81,7 @@ If a door closes on GR-18 and he is inside of the block, but only enough to be p
 
 Tech Demo Level:[b7r0ws7 | "Powered Gate Flingo" by Toxin King @b2p7k7](https://lvlhd.co/+b7r0ws7)
 
-## Spikeatrons
+## Spiketrons
 
 ### Pixel Toe _(AKA Ledge Jumping, One-toe Ledging)_
 Using the properties of the circular hazard hitbox, it is possible to stand GR-18 on the very edge of a solid block that has a Spiketron above it. This also applies to Spike Traps and Whizblades. This does not apply to 1x scale Cromblers.
