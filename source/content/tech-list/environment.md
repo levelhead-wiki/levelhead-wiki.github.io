@@ -8,7 +8,7 @@ Tech for things that GR-18 can’t take along for the adventure.
 
 ### Blasted Zipper Shift
 
-[See entry under Zipper]({{< relref "all-powered-up.md#blasted-zipper-shift" >}})
+[See entry under Zipper]({{< relref "all-powered-up#blasted-zipper-shift" >}})
 
 ## BUDD-E
 
@@ -39,7 +39,7 @@ Tech demo level :[0m4xh00 | "Moment Uh Jump Lesson" by BscotchKarl @bscotch042](
 
 ### Flyboost
 
-[See Up-Boosted Package Jump]({{< relref "you-and-the-goods.md#up-boosted-package-jump" >}})
+[See Up-Boosted Package Jump]({{< relref "you-and-the-goods#up-boosted-package-jump" >}})
 
 ## Sky Wiggler
 

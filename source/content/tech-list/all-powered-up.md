@@ -7,7 +7,7 @@ The tech you can perform with the various powerups in LevelHead.
 
 ## Rebound
 ### Rebound Super Jump
-With GR-18’s back against a wall, perform a [Super Jump](https://levelhead.wiki/tech-list/you-and-the-goods/#super-jump). At the peak of the Super Jump, throw the package upwards again. Immediately rebound blast twice. Grab and jump off the package as GR-18 passes up through it. Without a wall, a more precise timing of rebound blast in one direction and then the other can be used. This allows GR-18 to reach a height of **17** tiles.
+With GR-18’s back against a wall, perform a [Super Jump]({{< relref "you-and-the-goods#super-jump" >}}). At the peak of the Super Jump, throw the package upwards again. Immediately rebound blast twice. Grab and jump off the package as GR-18 passes up through it. Without a wall, a more precise timing of rebound blast in one direction and then the other can be used. This allows GR-18 to reach a height of **17** tiles.
 
 Tech Demo Level: [mj0kqtv | "Rebound Package Jump" by aferalsheep @0xsntg](https://levelhead.io/+mj0kqtv)
 
