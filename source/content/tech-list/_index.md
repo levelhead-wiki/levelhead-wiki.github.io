@@ -1,7 +1,7 @@
 +++
 title = "The Tech Lists"
 chapter = true
-weight = 5
+weight = 1
 +++
 
 # The Tech Lists

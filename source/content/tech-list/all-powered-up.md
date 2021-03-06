@@ -1,6 +1,6 @@
 +++
 title = "All Powered Up"
-weight = 15
+weight = 2
 +++
 
 The tech you can perform with the various powerups in LevelHead.

@@ -4,4 +4,7 @@ title = "Unoffical LevelHead Wiki"
 theme = "learn"
 
 [params]
- themeVariant = "levelhead"
+themeVariant = "levelhead"
+
+[markup.goldmark.renderer]
+unsafe = true
