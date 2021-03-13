@@ -27,7 +27,7 @@ Tech demo video :[LevelHead [CL] - Armor Plate Enemy Womp¿ by aradarbel10](http
 
 ### Fortified Dash
 
-See [Waylay - Fortified Dash]({{< relref "all-powered-up.md#fortified-dash" >}})
+See [Waylay - Fortified Dash]({{< relref "all-powered-up#fortified-dash" >}})
 
 ## Bomb
 
@@ -50,14 +50,14 @@ Tech demo video :[Levelhead - Glossary of Advanced Techniques](https://youtu.be/
 
 ### Enemy Go-Through Bounce
 
-[See entry in Armor Plate.]({{< relref "items.md#enemy-go-trough-bounce" >}})
+[See entry in Armor Plate.]({{< relref "items#enemy-go-through-bounce" >}})
 
 ## Throw Block
 
 ### Block Jump
 
-[See entry under Package Jump]({{< relref "you-and-the-goods.md#package-jump" >}})
+[See entry under Package Jump]({{< relref "you-and-the-goods#package-jump" >}})
 
 ### Up-Boosted Block Jump
 
-[See entry under Package Jump]({{< relref "you-and-the-goods.md#up-boosted-package-jump" >}})
+[See entry under Package Jump]({{< relref "you-and-the-goods#up-boosted-package-jump" >}})
