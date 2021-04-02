@@ -74,6 +74,14 @@ Just after moving up and through an upside-down invisible prize block, press jum
 Tech demo level :[ztjjfl1 | "Prize Block?" by JewCraft42 @b9xpnn](https://lvlhd.co/+ztjjfl1)
 Tech demo video :[Levelhead - ??? Jump](https://youtu.be/baGwcrs6DBU)- Intuition
 
+## Brittle Rock
+
+### Unstopped Rock Break _(AKA Hard Head)_
+![Unstopped Rock Break](/img/tech-gifs/UnstoppedRockBreak.gif#floatright)
+Coyote bounce off of an enemy located 3 tiles below brittle rock. If timed right, the coyote will occur after the rock is broken, and GR-18 will ascend through without stopping.
+
+Tech demo level: [3kq0ljt | "Jump Go Through Rock!?" by Omnikar @8r9gxr](https://levelhead.io/+3kq0ljt)
+
 ## Powered Gate
 
 ### Gate Jump
