@@ -102,6 +102,7 @@ Tech Demo Video: https://www.youtube.com/watch?v=AtRzSM-gn04
 Punch a bullet to destroy it without dying.
 
 ### Traversal Charge
+![Traversal Charge](/img/all-powered-up/TraversalCharge.gif#floatright)
 Punch while on the ground to avoid contacting hazards on the same level. GR-18 still needs to land on a standable block. This can traverse **6** tiles of hazards.
 
 ### Sprint Dash
@@ -113,19 +114,19 @@ Punch while on the ground and having sprint to gain **super-speeb** and increase
 While equiped with either an armor plate or reusable armor, punch immediately after taking damage. This allows GR-18 to move through semi-solid hazards.
 
 ### Bounceless Smash
-![TODO](/img/all-powered-up/TODO.gif#floatright)
+![Bounceless Smash](/img/all-powered-up/BouncelessSmash.gif#floatright)
 Punch a wall, brick, or brittle rock at a distance of **6** tiles to prevent the knockback from the punch contacting an item.
 
 ### Waylay Nullifier Blast
-![TODO](/img/all-powered-up/TODO.gif#floatright)
+![Waylay Nullifier Blast](/img/all-powered-up/WaylayNullifierBlast.gif#floatright)
 Punch through a a power-up purge gate or a different power-up pickup to gain **ultra-super-speeb** and cover great distances. Removing the Waylay mid-punch keeps the speed from the punch while removing the decelleration the game normally applies.
 
 ### Waylay Fade Away
-![TODO](/img/all-powered-up/TODO.gif#floatright)
+![Waylay Fade Away](/img/all-powered-up/WaylayFadeAway.gif#floatright)
 Perform a diagonal arial charge into a wall. GR-18 will bounce back to **3** tiles from the contact point. Combined with holding the opposite direction, GR-18 can bounce back **8** tiles. This can be used to access gaps up to **9** tiles high.
 
 ### Floating Wall Punch _(AKA Waylay Coyote Punch)_
-![TODO](/img/all-powered-up/TODO.gif#floatright)
+![Floating Wall Punch](/img/all-powered-up/FloatingWallPunch.gif#floatright)
 Stand beside a wall, dash into it and press jump as GR-18 rises from the rebound. GR-18 will perform a coyote jump off the rebound. Even though you "stood" beside the wall, GR-18 can jump as high as if you were sprinting (**5** tiles)! This can be performed from afar, however a closer start makes the jump timing easier.
 
 Tech Demo Level: [jsgn9tc | "Rough Waylay Tutorial!" by Intuition @g3204t](https://lvlhd.co/+jsgn9tc) (second last challenge)
@@ -133,7 +134,7 @@ Tech Demo Level: [jsgn9tc | "Rough Waylay Tutorial!" by Intuition @g3204t](https
 Tech Demo Video: [Levelhead Coyote Punch](https://youtu.be/rz2rbDHfXsk) by Intuition 
 
 ### Infinity Waylay Leap
-![TODO](/img/all-powered-up/TODO.gif#floatright)
+![Infinity Waylay Leap](/img/all-powered-up/InfinityWaylayLeap.gif#floatright)
 Jump forward. When GR-18 starts falling, throw the package forward. Then dash diagonally to the package, to then jump off of it and re-grab it. This can be done repeatedly to allow **infinite** horizontal travel.
 
 Tech Demo Level: [dk9vmt7 | "Fly Far With Waylay" by aradarbel10](https://levelhead.io/+dk9vmt7)
@@ -141,11 +142,11 @@ Tech Demo Level: [dk9vmt7 | "Fly Far With Waylay" by aradarbel10](https://levelh
 Tech Demo Video: [Fly Far With Waylay](https://streamable.com/85lyd) - aradarbel10
 
 ### Waylay ISJ
-![TODO](/img/all-powered-up/TODO.gif#floatright)
+![Waylay ISJ](/img/all-powered-up/WaylayISJ.gif#floatright)
 While moving upwards from a jump, throw the package in an upwards diagonal. Air punch towards the package and perform a super jump. Repeat. This allows GR-18 to reach **infinite** heights.
 
 ### Flat Air Dash
-![TODO](/img/all-powered-up/TODO.gif#floatright)
+![Flat Air Dash](/img/all-powered-up/FlatAirDash.gif#floatright)
 Throw a package upwards. Jump so that GR-18 passes through the package as it is descending. Press dash as GR-18’s toes touch the top of the package. GR-18 will make a horizontal dash. This is **frame perfect**. The package can be regrabbed.
 
 Tech Demo Level: [z8j8n70 | "Flat Air Dash" by freact @xgndfz](https://levelhead.io/+z8j8n70)
@@ -153,9 +154,11 @@ Tech Demo Level: [z8j8n70 | "Flat Air Dash" by freact @xgndfz](https://levelhead
 ## Zipper
 
 ### Fractured Sprint
+![Fractured Sprint](/img/all-powered-up/FracturedSprint.gif#floatright)
 Zip through obstacles or over gaps while gaining sprint to retain accumulated ‘wind up’ time. The count up to gain sprint does not reset from a zip.
 
 ### Zip-Up
+![Zip-Up](/img/all-powered-up/ZipUp.gif#floatright)
 Zip while jumping or having any upwards momentum to continue the upwards momentum after the zip and reach heights beyond walls. This applies to momentum from jumping, bombs, wigglers or any vertical momentum.
 
 Tech Demo Video : [Levelhead Zip-Up Example (jumping)](https://www.youtube.com/watch?v=VCG88XDyI-4&feature=youtu.be) - TripleB36
@@ -163,12 +166,15 @@ Tech Demo Video : [Levelhead Zip-Up Example (jumping)](https://www.youtube.com/w
 Tech Demo Video : [Levelhead Zip-Up Example Extended (from movement devices)](https://www.youtube.com/watch?v=6yPIgvgujyk) - TripleB36 
 
 ### Blasted Zipper Shift
+![Blasted Zipper Shift](/img/all-powered-up/BlastedZipperShift.gif#floatright)
 After launching from a blaster, use the Zipper’s zip ability.  GR-18 will continue on the same trajectory of the blaster from the new location.
 
 ### Standing Zip-Up _(AKA Zipped Coyote Jump)_
+![Standing Zip-Up](/img/all-powered-up/StandingZipUp.gif#floatright)
 After zipping, a coyote jump can be performed to reach regular jump height after a zip to a location that GR-18 can not stand on. This includes open space and hazards.
 
 ### Blip Zip
+![Blip Zip](/img/all-powered-up/BlipZip.gif#floatright)
 If a zip is buffered during a respawn at a Budd-E the following zip can be shortened around spiketrons. The zip will treat spiketrons like walls due to being invincible from the respawn. A jump can also be buffered with the Blip Zip.
 
 Tech demo level: [bxpkftx | "The Short Zipper" by PureKnix @ref0kg](https://lvlhd.co/+bxpkftx)

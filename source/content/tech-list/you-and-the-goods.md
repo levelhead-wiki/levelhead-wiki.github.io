@@ -106,7 +106,7 @@ Tech demo video: [Boosted Package Jump - aradarbel10](https://streamable.com/3lh
 Tech demo video: [Panic Boosted Package Jump - aradarbel10](https://streamable.com/cjl8i8)
 
 ### Super Slam Jump _(AKA Fart Package Jump)_
-![Package Jump](/img/you-and-the-goods/SuperSlamJump.gif#floatright)
+![Super Slam Jump](/img/you-and-the-goods/SuperSlamJump.gif#floatright)
 Throw the package down and immediately jump. Jump again as GR-18 passes the plane of the top of the package. This will allow GR-18 to jump 7 tiles high.
 
 Tech demo video: [Fart Package Jump](https://www.youtube.com/watch?v=hFJl2_khBlA) - gotia2003
