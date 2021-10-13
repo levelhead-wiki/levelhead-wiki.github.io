@@ -65,7 +65,7 @@ This tech is also introduced in the fourth campaign level (Thorn Cloud Delivery)
 
 ### Package Jump Panic
 ![Package Jump Panic](/img/you-and-the-goods/PackageJumpPanic.gif#floatright)
-While the package is on a Spikeatron, GR-18 can safely stand on the package. Starting from that state, perform a Package Jump then throw the package down at the end of the jump. GR-18 can navigate a floor of Spikeatrons by repeating this technique. This also works with a Throw Block.
+While the package is on a Spiketron, GR-18 can safely stand on the package. Starting from that state, perform a Package Jump then throw the package down at the end of the jump. GR-18 can navigate a floor of Spiketrons by repeating this technique. This also works with a Throw Block.
 
 Tech Demo Level: [2njlkjk | "Package Jump Panic" by BscotchSeth @bscotch101](https://lvlhd.co/+2njlkjk)
 
@@ -114,7 +114,7 @@ Tech demo video: [Fart Package Jump](https://www.youtube.com/watch?v=hFJl2_khBlA
 ### Ceiling Slip _(AKA Ceiling Sleep)_
 ![Ceiling Slip](/img/you-and-the-goods/CeilingSlip.gif#floatright)
 Jump into a 1 height gap that is at most 2 tiles wide and throw the package forward-down after the half-way mark. With spring this can be increased to a 3 tile wide section. 
-GR-18 can traverse the gap without touching the floor of the gap. This is specifically useful traversing gaps with a spikeatron floor.
+GR-18 can traverse the gap without touching the floor of the gap. This is specifically useful traversing gaps with a spiketron floor.
 
 Tech demo level: [mfj4ctj | "Ceiling Slip Tutorial" by SleepyDoof @zchv6z](https://lvlhd.co/+mfj4ctj)
 Tech demo video: [Sleepy Slipping the Ceiling](https://cdn.discordapp.com/attachments/408122851187621888/611426998392324096/2019-08-15_01-11-48.webm) - SleepyDoof
