@@ -70,6 +70,7 @@ While the package is on a Spiketron, GR-18 can safely stand on the package. Star
 Tech Demo Level: [2njlkjk | "Package Jump Panic" by BscotchSeth @bscotch101](https://lvlhd.co/+2njlkjk)
 
 ### Package Hop
+![Package Hop](/img/you-and-the-goods/PackageHop.gif#floatright)
 See [Item Hop](/tech-list/items#item-hop)
 
 ### Package Pounce

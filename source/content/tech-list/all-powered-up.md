@@ -84,6 +84,7 @@ Jump off and back to the wall. Just before landing, throw the package diagonally
 Immediately after wall-sliding past the lower edge of a wall, throw an object down and hold jump. GR-18 will cling to the overhang.
 
 ### Deliverable Corner-Up
+![Deliverable Corner-Up](/img/all-powered-up/DeliverableCornerUp.gif#floatright)
 While approaching an upwards corner from a hang, throw the package up and forward. Let go of the hang to land on the box mid-air. Jump off the package and grab it to engage the wall for a wall climb.
 
 ### Perfectly Vertical Infinite Climb

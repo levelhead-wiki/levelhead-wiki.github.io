@@ -20,6 +20,7 @@ Tech demo video: [Levelhead Item Hopping Example](https://www.youtube.com/watch?
 ## Armor Plate
 
 ### Enemy Go-Through Bounce
+![Enemy Go-Through Bounce](/img/items/EnemyGoThroughBounce.gif#floatright)
 While equipped with either a D-Bot or an Armor Plate, jump up through an enemy. Press jump at the top of the enemy. GR-18 will jump as per a normal Kill Jump or Kill Launch.
 
 Tech demo level: [7v3961c | "Armor Plate Enemy Womp¿" by aradarbel10](https://levelhead.io/+7v3961c)
@@ -39,6 +40,7 @@ Stand on an exploding bomb.GR-18 launches **12** tiles into the air.
 Tech demo video: [Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk?t=43)- Flan
 
 ### Extended Bomb Jump
+![Extended Bomb Jump](/img/items/ExtendedBombJump.gif#floatright)
 By standing on the same tile as exploding bomb and holding jump as the bomb explodes, GR-18 launches **22** tiles into the air. The closer to the detonation point, the higher the launch.
 
 Tech demo video: [Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk?t=50)- Flan
