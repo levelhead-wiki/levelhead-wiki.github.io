@@ -1,6 +1,6 @@
 +++
 title = "R.I.P (Stuff that got Patched or turned into features)"
-weight = 15
+weight = 10
 +++
 
 ## ^Patch 0.9.8^

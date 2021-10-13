@@ -1,6 +1,6 @@
 +++
 title = "Enemies and Enemy Drops"
-weight = 15
+weight = 5
 +++
 
 ## Any Enemy

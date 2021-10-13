@@ -1,6 +1,6 @@
 +++
 title = "The Environment"
-weight = 15
+weight = 3
 +++
 Tech for things that GR-18 can’t take along for the adventure.
 

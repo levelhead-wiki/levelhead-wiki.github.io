@@ -1,6 +1,6 @@
 +++
 title = "Items"
-weight = 15
+weight = 4
 +++
 
 ## Any Carryable
