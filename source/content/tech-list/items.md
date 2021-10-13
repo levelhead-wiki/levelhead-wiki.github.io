@@ -6,6 +6,7 @@ weight = 15
 ## Any Carryable
 
 ### Item Boost _(AKA Kick Boost)_
+![Item Boost](/img/items/ItemBoost.gif#floatright)
 While in the air, throw any item downwards. This provides GR-18 with an extra tile of height. Any carryable, including those that don’t go down can be used to perform this.
 
 Tech demo video :[Levelhead Item Hopping Example](https://www.youtube.com/watch?v=MXkydn-30Yg)- TripleB36 (Opening section)
@@ -32,6 +33,7 @@ See [Waylay - Fortified Dash]({{< relref "all-powered-up#fortified-dash" >}})
 ## Bomb
 
 ### Bomb Jump
+![Bomb Jump](/img/items/BombJump.gif#floatright)
 Stand on an exploding bomb.GR-18 launches **12** tiles into the air.
 
 Tech demo video :[Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk?t=43)- Flan
@@ -42,6 +44,7 @@ By standing on the same tile as exploding bomb and holding jump as the bomb expl
 Tech demo video :[Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk?t=50)- Flan
 
 ### Bomb Jump Momentum Cancel
+![Bomb Jump Momentum Cancel](/img/items/BombJumpMomentumCancel.gif#floatright)
 Begin holding the jump just as a the bomb goes off and release to cancel the momentum caused by the bomb. The initial press time is precise.
 
 Tech demo video :[Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk?t=61)- Flan
