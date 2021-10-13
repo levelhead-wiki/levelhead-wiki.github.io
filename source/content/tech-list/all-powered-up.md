@@ -161,9 +161,9 @@ Zip through obstacles or over gaps while gaining sprint to retain accumulated â€
 ![Zip-Up](/img/all-powered-up/ZipUp.gif#floatright)
 Zip while jumping or having any upwards momentum to continue the upwards momentum after the zip and reach heights beyond walls. This applies to momentum from jumping, bombs, wigglers or any vertical momentum.
 
-Tech Demo Video : [Levelhead Zip-Up Example (jumping)](https://www.youtube.com/watch?v=VCG88XDyI-4&feature=youtu.be) - TripleB36
+Tech Demo Video: [Levelhead Zip-Up Example (jumping)](https://www.youtube.com/watch?v=VCG88XDyI-4&feature=youtu.be) - TripleB36
 
-Tech Demo Video : [Levelhead Zip-Up Example Extended (from movement devices)](https://www.youtube.com/watch?v=6yPIgvgujyk) - TripleB36 
+Tech Demo Video: [Levelhead Zip-Up Example Extended (from movement devices)](https://www.youtube.com/watch?v=6yPIgvgujyk) - TripleB36 
 
 ### Blasted Zipper Shift
 ![Blasted Zipper Shift](/img/all-powered-up/BlastedZipperShift.gif#floatright)

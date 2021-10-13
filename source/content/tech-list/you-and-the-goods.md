@@ -41,7 +41,7 @@ Tech Demo Level: [n0g3qr6 | "Gently Dash Forward" by Flan @05jpvp](https://level
 ### Long Package Throw
 Stand right below the ceiling or inside a 1-tile gap within a wall and then throw the package. The package will traverse a longer distance than a normal throw. This also works with Throw Blocks.
 
-Tech demo video : [LevelHead - long Package Throw](https://www.youtube.com/watch?v=nEBEAmEgKmM) - Intuition
+Tech demo video: [LevelHead - long Package Throw](https://www.youtube.com/watch?v=nEBEAmEgKmM) - Intuition
 
 ### Package Bob _(AKA Stiff Arm)_
 ![Package Bob](/img/you-and-the-goods/PackageBob.gif#floatright)
@@ -88,7 +88,7 @@ This is _the_ foundational tech that most other techs for gaining height build o
 
 Tech Demo Video: [Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk) - Flan
 
-Tech Demo Video : [Super Jump](https://cdn.discordapp.com/attachments/586641629948149761/700264058003128411/FJLl9FFepk.webm) - Sleepy
+Tech Demo Video: [Super Jump](https://cdn.discordapp.com/attachments/586641629948149761/700264058003128411/FJLl9FFepk.webm) - Sleepy
 
 ### Up-Boosted Package Jump
 ![Up-Boosted Package Jump](/img/you-and-the-goods/UpBoostedPackageJump.gif#floatright)
