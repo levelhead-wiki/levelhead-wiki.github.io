@@ -55,7 +55,7 @@ Tech demo level: [jvp1p6s | "Tiptow Slide Up" by PureKnix @ref0kg](https://lvlhd
 ![Bush Slide](/img/all-powered-up/BushSlide.gif#floatright)
 After contacting a wall and beginning the slide animation, use Tiptow’s special ability to turn into a bush while still sliding on the wall. This tech will not work if GR-18 turns into a bush before touching the wall.
 
-Tech demo video: [Steek Hutsy](https://giphy.com/gifs/QTylu6i6k9e9RJAuWV)
+Tech demo video: https://giphy.com/gifs/QTylu6i6k9e9RJAuWV - Steek Hutsy
 
 ### Rising Coyote Wall Jump
 ![Rising Coyote Wall Jump](/img/all-powered-up/RisingCoyoteWallJump.gif#floatright)
@@ -96,7 +96,7 @@ While near a wall, jump and throw the package forward at a wall while ascending.
 ![Flying Waylay](/img/all-powered-up/FlyingWaylay.gif#floatright)
 When holding a Blopsack, repeatedly aerial punc to gain infinite horizontal and vertical movement.
 
-Tech Demo Video: https://www.youtube.com/watch?v=AtRzSM-gn04
+Tech Demo Video: https://www.youtube.com/watch?v=AtRzSM-gn04 - Intuition
 
 ### Charge Block
 ![Charge Block](/img/all-powered-up/ChargeBlock.gif#floatright)
@@ -132,7 +132,7 @@ Stand beside a wall, dash into it and press jump as GR-18 rises from the rebound
 
 Tech Demo Level: [jsgn9tc | "Rough Waylay Tutorial!" by Intuition @g3204t](https://lvlhd.co/+jsgn9tc) (second last challenge)
 
-Tech Demo Video: [Levelhead Coyote Punch](https://youtu.be/rz2rbDHfXsk) by Intuition 
+Tech Demo Video: [Levelhead Coyote Punch](https://youtu.be/rz2rbDHfXsk) - Intuition 
 
 ### Infinity Waylay Leap
 ![Infinity Waylay Leap](/img/all-powered-up/InfinityWaylayLeap.gif#floatright)

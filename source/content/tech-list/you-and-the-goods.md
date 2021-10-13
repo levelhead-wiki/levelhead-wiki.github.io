@@ -103,8 +103,9 @@ This technique can also be accomplished by falling through the package top and i
 
 Both techniques also work with Throw Blocks.
 
-Tech demo video: [Boosted Package Jump - aradarbel10](https://streamable.com/3lh7kx)
-Tech demo video: [Panic Boosted Package Jump - aradarbel10](https://streamable.com/cjl8i8)
+Tech demo video: [Boosted Package Jump](https://streamable.com/3lh7kx) - aradarbel10
+
+Tech demo video: [Panic Boosted Package Jump](https://streamable.com/cjl8i8) - aradarbel10
 
 ### Super Slam Jump _(AKA Fart Package Jump)_
 ![Super Slam Jump](/img/you-and-the-goods/SuperSlamJump.gif#floatright)

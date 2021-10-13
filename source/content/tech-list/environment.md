@@ -19,6 +19,7 @@ Respawn at a BUDD-E. GR-18 receives a few frames of invulnerability. GR-18 can b
 ## Bumper
 
 ### Bump Jump _(AKA Bumper Jump)_
+![Bump Jump](/img/environment/BumpJump.gif#floatright)
 From a solid surface, walk onto a bumper flush with the surface and press jump on contact with the bumper. GR-18 will be propelled **12** tiles upwards.
 While sprinting on a solid surface, jump as you hit a bumper that is flush with the surface. GR-18 will launch about **15** tiles upwards.
 
@@ -81,7 +82,7 @@ Tech demo level: [g0p15t4 | "Leap With The Sky Wiggler" by Spekio @3719xx](https
 Just after moving up and through an upside-down invisible prize block, press jump. Gr-18 will jump again and not open the prize block.
 
 Tech demo level: [ztjjfl1 | "Prize Block?" by JewCraft42 @b9xpnn](https://lvlhd.co/+ztjjfl1)
-Tech demo video: [Levelhead - ??? Jump](https://youtu.be/baGwcrs6DBU)- Intuition
+Tech demo video: [Levelhead - ??? Jump](https://youtu.be/baGwcrs6DBU) - Intuition
 
 ## Brittle Rock
 
