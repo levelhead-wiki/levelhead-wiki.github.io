@@ -119,6 +119,7 @@ Jump into a 1 height gap that is at most **2** tiles wide and throw the package 
 GR-18 can traverse the gap without touching the floor of the gap. This is specifically useful traversing gaps with a spiketron floor.
 
 Tech demo level: [mfj4ctj | "Ceiling Slip Tutorial" by SleepyDoof @zchv6z](https://lvlhd.co/+mfj4ctj)
+
 Tech demo video: [Sleepy Slipping the Ceiling](https://cdn.discordapp.com/attachments/408122851187621888/611426998392324096/2019-08-15_01-11-48.webm) - SleepyDoof
 
 ### Wall Jump
@@ -126,6 +127,7 @@ Tech demo video: [Sleepy Slipping the Ceiling](https://cdn.discordapp.com/attach
 Jump near a wall, throw the Package against the wall while ascending, then jump again on the Package after it bounces off the wall. This allows GR-18 to clear **9** tiles of height. Do while sprinting for a Super Wall Jump. This can be chained **infinitely**.
 
 Tech demo video: [Super Wall Jump](https://youtu.be/q7yhVDxHMjc) - Intuition
+
 Tech demo video: [Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk?t=36) - Flan
 
 ### Ceiling Jump
@@ -133,7 +135,9 @@ Tech demo video: [Levelhead - Glossary of Advanced Techniques](https://youtu.be/
 As GR-18 approaches a ceiling from a jump, toss the package upwards, quickly turn back to line up with the rebounding package, then jump again on the package after the package bounces off the ceiling. This will allow GR-18 to end up on top of outcropped ceilings. This can be done **infinitely** with the right ceiling configurations.
 
 Tech demo level: [8127mmq | "Ceiling Super Jump" by HighChair @nvb68d](https://lvlhd.co/+8127mmq)
+
 Tech demo video: [Super Ceiling Jump](https://youtu.be/0w48iK0BhJw) - Intuition
+
 Tech demo video: [Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk?t=33) - Flan
 
 ### Double Super Jump

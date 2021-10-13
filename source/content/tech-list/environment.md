@@ -24,7 +24,9 @@ From a solid surface, walk onto a bumper flush with the surface and press jump o
 While sprinting on a solid surface, jump as you hit a bumper that is flush with the surface. GR-18 will launch about **15** tiles upwards.
 
 Tech demo level: [d0q9w69 | "Bumper Jump Lesson" by BscotchKarl @bscotch042](https://levelhead.io/+d0q9w69)
+
 Tech demo level: [cjx34x4 | "Bumper: Big Jump!" by SleepyDoof @zchv6z](https://levelhead.io/+cjx34x4)
+
 Tech demo level: [bp7gn0r | "Bump Jump Tutorial" by Tim Conceivable @rmk4os](https://levelhead.io/+bp7gn0r)
 
 ## Flingo
@@ -82,6 +84,7 @@ Tech demo level: [g0p15t4 | "Leap With The Sky Wiggler" by Spekio @3719xx](https
 Just after moving up and through an upside-down invisible prize block, press jump. Gr-18 will jump again and not open the prize block.
 
 Tech demo level: [ztjjfl1 | "Prize Block?" by JewCraft42 @b9xpnn](https://lvlhd.co/+ztjjfl1)
+
 Tech demo video: [Levelhead - ??? Jump](https://youtu.be/baGwcrs6DBU) - Intuition
 
 ## Brittle Rock

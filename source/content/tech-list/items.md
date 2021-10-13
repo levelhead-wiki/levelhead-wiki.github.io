@@ -15,6 +15,7 @@ Tech demo video: [Levelhead Item Hopping Example](https://www.youtube.com/watch?
 Item hopping allows GR-18 to traverse a row of Spiketrons using throwable items. While holding down and a lateral direction, repeatedly press grab. GR-18 will alternate throwing the item down and picking the item up. The kick boost from throwing the item down prevents GR-18 from touching the ground. This can be done under a **2** high ceiling. This tech can be done with any carryable.
 
 Tech demo level: [3jq0l84 | "Vacsteak Hop" by tripleB36 @1nv7rl](https://lvlhd.co/+3jq0l84)
+
 Tech demo video: [Levelhead Item Hopping Example](https://www.youtube.com/watch?v=MXkydn-30Yg) - TripleB36
 
 ## Armor Plate
