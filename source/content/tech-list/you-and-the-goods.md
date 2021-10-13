@@ -24,7 +24,7 @@ When running off of a platform into open space, press jump before GR-18 moves mo
 
 ### Retro Go-Go _(AKA Impossible Sprint)_
 ![Retro Go-Go](/img/you-and-the-goods/RetroGoGo.gif#floatright)
-Land on the edge of a platform of at least 7 tiles length to gain sprint on the 7th tile. Normally GR-18 requires 8 tiles to gain sprint. This can be combined with a jump off and back onto the edge of the same platform to gain sprint while already on a 7 tile platform.
+Land on the edge of a platform of at least **7** tiles length to gain sprint on the 7th tile. Normally GR-18 requires 8 tiles to gain sprint. This can be combined with a jump off and back onto the edge of the same platform to gain sprint while already on a **7** tile platform.
 
 Tech Demo Level: [s164p25 | "An Impossible Sprint Jump" by RetrophileTV @d29oze ](https://lvlhd.co/+s164p25)
 
@@ -39,7 +39,7 @@ Tech Demo Level: [n0g3qr6 | "Gently Dash Forward" by Flan @05jpvp](https://level
 ## Package
 
 ### Long Package Throw
-Stand right below the ceiling or inside a 1-tile gap within a wall and then throw the package. The package will traverse a longer distance than a normal throw. This also works with Throw Blocks.
+Stand right below the ceiling or inside a **1**-tile gap within a wall and then throw the package. The package will traverse a longer distance than a normal throw. This also works with Throw Blocks.
 
 Tech demo video: [LevelHead - long Package Throw](https://www.youtube.com/watch?v=nEBEAmEgKmM) - Intuition
 
@@ -55,7 +55,7 @@ This tech can also be used to flip lockswitches and flippy longswitches.
 
 ### Package Jump
 ![Package Jump](/img/you-and-the-goods/PackageJump.gif#floatright)
-Stand on the Package or a Throw Block and jump from it to reach 1 tile higher (5 total).  The crate or package can also be picked up with a down grab immediately after jumping to bring it with GR-18.
+Stand on the Package or a Throw Block and jump from it to reach **1** tile higher (**5** total).  The crate or package can also be picked up with a down grab immediately after jumping to bring it with GR-18. If you do this while sprinting, you can reach **6** tiles in height.
 
 Tech Demo Video: [Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk) - Flan
 
@@ -74,7 +74,7 @@ See [Item Hop](/tech-list/items#item-hop)
 
 ### Package Pounce
 ![Package Pounce](/img/you-and-the-goods/PackagePounce.gif#floatright)
-Throw the package down on an enemy and then perform a mid-air package jump.  This allows GR-18 to traverse rows of Cromblers or ‘bounce’ off a single Crombler. Package pouncing can also be done diagonally by throwing the Package down and to the left or right and moving in that direction, then jumping off the Package near the apex of its bounce.
+Throw the package down on an enemy and then perform a mid-air package jump. This allows GR-18 to traverse rows of Cromblers or ‘bounce’ off a single Crombler. Package pouncing can also be done diagonally by throwing the Package down and to the left or right and moving in that direction, then jumping off the Package near the apex of its bounce.
 
 Tech demo level: [cmld827 | "Improbable Package Hop" by Steek Hutsy @4w6xwp](https://levelhead.io/+cmld827)
 
@@ -82,7 +82,7 @@ Tech demo video: [Forward From - Trust Tower by Intuition?!](https://youtu.be/xZ
 
 ### Super Jump
 ![Super Jump](/img/you-and-the-goods/SuperJump.gif#floatright)
-Throw the Package upwards. While the package is in the air, press jump to leave the ground and press jump again just as GR-18’s feet pass the top of the Package. This allows GR-18 to reach a height of 8 tiles. Immediately after the jump off the Package, perform a down grab to take the package with GR-18. This can also be performed with a Throw Block. It is only possible to Super Jump off of the Package or a Throw Block if it is moving downwards.
+Throw the Package upwards. While the package is in the air, press jump to leave the ground and press jump again just as GR-18’s feet pass the top of the Package. This allows GR-18 to reach a height of **8** tiles. Immediately after the jump off the Package, perform a down grab to take the package with GR-18. This can also be performed with a Throw Block. It is only possible to Super Jump off of the Package or a Throw Block if it is moving downwards.
 
 This is _the_ foundational tech that most other techs for gaining height build off of. If you only learn one advanced technique in this whole list it should probably be this one.
 
@@ -113,7 +113,7 @@ Tech demo video: [Fart Package Jump](https://www.youtube.com/watch?v=hFJl2_khBlA
 
 ### Ceiling Slip _(AKA Ceiling Sleep)_
 ![Ceiling Slip](/img/you-and-the-goods/CeilingSlip.gif#floatright)
-Jump into a 1 height gap that is at most 2 tiles wide and throw the package forward-down after the half-way mark. With spring this can be increased to a 3 tile wide section. 
+Jump into a 1 height gap that is at most **2** tiles wide and throw the package forward-down after the half-way mark. With spring this can be increased to a **3** tile wide section. 
 GR-18 can traverse the gap without touching the floor of the gap. This is specifically useful traversing gaps with a spiketron floor.
 
 Tech demo level: [mfj4ctj | "Ceiling Slip Tutorial" by SleepyDoof @zchv6z](https://lvlhd.co/+mfj4ctj)
@@ -121,7 +121,7 @@ Tech demo video: [Sleepy Slipping the Ceiling](https://cdn.discordapp.com/attach
 
 ### Wall Jump
 ![Wall Jump](/img/you-and-the-goods/WallJump.gif#floatright)
-Jump near a wall, throw the Package against the wall while ascending, then jump again on the Package after it bounces off the wall. This allows GR-18 to clear 9 tiles of height. Do while sprinting for a Super Wall Jump. This can be chained **infinitely**.
+Jump near a wall, throw the Package against the wall while ascending, then jump again on the Package after it bounces off the wall. This allows GR-18 to clear **9** tiles of height. Do while sprinting for a Super Wall Jump. This can be chained **infinitely**.
 
 Tech demo video: [Super Wall Jump](https://youtu.be/q7yhVDxHMjc) - Intuition
 Tech demo video: [Levelhead - Glossary of Advanced Techniques](https://youtu.be/m1AH-9Dm4gk?t=36) - Flan

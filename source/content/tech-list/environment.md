@@ -70,7 +70,7 @@ Tech demo level: [1ptzc9k | "No Down Sky Wiggler Jump" by PureKnickers @ref0kg](
 
 ### Stable Drift
 ![Stable Drift](/img/environment/StableDrift.gif#floatright)
-Without vertical momentum, enter a series of wigglers about 4 tiles above the wigglers to traverse the wigglers with minimal vertical movement. Entering at the peak of GR-18’s normal jump works for this tech.
+Without vertical momentum, enter a series of wigglers about **4** tiles above the wigglers to traverse the wigglers with minimal vertical movement. Entering at the peak of GR-18’s normal jump works for this tech.
 
 Tech demo level: [g0p15t4 | "Leap With The Sky Wiggler" by Spekio @3719xx](https://lvlhd.co/+g0p15t4) (after the 3rd checkpoint)
 
@@ -87,7 +87,7 @@ Tech demo video: [Levelhead - ??? Jump](https://youtu.be/baGwcrs6DBU)- Intuition
 
 ### Unstopped Rock Break _(AKA Hard Head)_
 ![Unstopped Rock Break](/img/environment/UnstoppedRockBreak.gif#floatright)
-Coyote bounce off of an enemy located 3 tiles below brittle rock. If timed right, the coyote will occur after the rock is broken, and GR-18 will ascend through without stopping.
+Coyote bounce off of an enemy located **3** tiles below brittle rock. If timed right, the coyote will occur after the rock is broken, and GR-18 will ascend through without stopping.
 
 Tech demo level: [3kq0ljt | "Jump Go Through Rock!?" by Omnikar @8r9gxr](https://levelhead.io/+3kq0ljt)
 

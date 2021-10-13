@@ -7,12 +7,12 @@ weight = 4
 
 ### Item Boost _(AKA Kick Boost)_
 ![Item Boost](/img/items/ItemBoost.gif#floatright)
-While in the air, throw any item downwards. This provides GR-18 with an extra tile of height. Any carryable, including those that don’t go down can be used to perform this.
+While in the air, throw any item downwards. This provides GR-18 with **1** extra tile of height (extending a normal jump to **5** tiles, and a sprint-jump to **6** tiles). Any carryable, including those that don’t go down can be used to perform this.
 
 Tech demo video: [Levelhead Item Hopping Example](https://www.youtube.com/watch?v=MXkydn-30Yg)- TripleB36 (Opening section)
 
 ### Item Hop
-Item hopping allows GR-18 to traverse a row of Spiketrons using throwable items. While holding down and a lateral direction, repeatedly press grab. GR-18 will alternate throwing the item down and picking the item up. The kick boost from throwing the item down prevents GR-18 from touching the ground. This can be done under a 2 high ceiling. This tech can be done with any carryable.
+Item hopping allows GR-18 to traverse a row of Spiketrons using throwable items. While holding down and a lateral direction, repeatedly press grab. GR-18 will alternate throwing the item down and picking the item up. The kick boost from throwing the item down prevents GR-18 from touching the ground. This can be done under a **2** high ceiling. This tech can be done with any carryable.
 
 Tech demo level: [3jq0l84 | "Vacsteak Hop" by tripleB36 @1nv7rl](https://lvlhd.co/+3jq0l84)
 Tech demo video: [Levelhead Item Hopping Example](https://www.youtube.com/watch?v=MXkydn-30Yg)- TripleB36
